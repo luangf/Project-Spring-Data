@@ -5,6 +5,7 @@
 * Java
 * Spring Framework
 * Spring Data
+* JPA | Hibernate
 * JUnit
 * Database PostgreSQL
 * Maven
