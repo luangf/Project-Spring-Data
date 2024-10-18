@@ -1,5 +1,5 @@
 ## Objective:
-* Interact with postgreSQL database using Spring Data with Spring Framework. Back end project.
+* Interact with PostgreSQL database using Spring Data with Spring Framework. Back end project.
 
 ## Technologies:
 * Java
